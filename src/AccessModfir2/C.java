@@ -7,7 +7,7 @@ public class C{
 		A objA= new A();
 		objA.m();
 		System.out.println(objA.a);
-		System.out.println("hello git");
+		//System.out.println("hello git");
 	}
 
 }
