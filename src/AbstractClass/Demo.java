@@ -47,9 +47,7 @@ class B extends A{
 		System.out.println("method m2");
 	}
 	
-	void m3() {
-		System.out.println("method m3");
-	}
+	
 	
 }
 
